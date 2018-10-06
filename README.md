@@ -10,6 +10,7 @@ steps to get started-
 2. update database credentials in include\dbConfig.php
 
 working demo - http://visimonk.com/
+
 Features-
 1. Permission and role management.
 2. User management
