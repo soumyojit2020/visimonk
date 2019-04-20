@@ -1,8 +1,8 @@
 <?php
 /* Database credentials. Assuming you are running MySQL*/
 define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'bct_vms');
-define('DB_PASSWORD', 'BlinkingCursors@1213');
+define('DB_USERNAME', 'user_name');
+define('DB_PASSWORD', 'pass_word');
 define('DB_NAME', 'bct_vms');
 
 /* Attempt to connect to MySQL database */
