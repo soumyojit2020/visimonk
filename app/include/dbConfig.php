@@ -3,7 +3,7 @@
 define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'user_name');
 define('DB_PASSWORD', 'pass_word');
-define('DB_NAME', 'bct_vms');
+define('DB_NAME', 'database_name');
 
 /* Attempt to connect to MySQL database */
 $conn = new mysqli(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
